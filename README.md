@@ -34,6 +34,6 @@ me = {
 }
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Human connection is one of my favorite things</b> so drop my a line and let's get to know each other!</b> :)</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Human connection is one of my favorite things</b> so drop me a line and let's get to know each other!</b> :)</em>
 
 ---
